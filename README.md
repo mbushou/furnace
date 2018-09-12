@@ -1,7 +1,7 @@
 Furnace: Self-Service Tenant VMI for the Cloud
 =======
 
-<img align="right" width="20%" src="https://github.ncsu.edu/mbushou/furnace/blob/master/misc/logo_smoke_sm.png">
+<img align="right" width="20%" src="https://github.com/mbushou/furnace/blob/master/misc/logo_smoke_sm.png">
 
 Introduction
 -------
@@ -15,22 +15,22 @@ custom VMI tools underneath their cloud VMs and a cloud
 provider's expectation of security.
 
 For additional details on Furnace's motivation and design, please
-[check out](https://www.raid2018.org/) the Furnace paper.
+[check out](https://link.springer.com/chapter/10.1007/978-3-030-00470-5_30) the Furnace paper.
 
 This repository contains information about the overall project.  The following
 individual repositories contain the actual software components.
 
-- [Furnace Sandbox](https://github.ncsu.edu/mbushou/furnace_sandbox)
-- [Furnace Proxy](https://github.ncsu.edu/mbushou/furnace_proxy)
-- [Furnace Backend](https://github.ncsu.edu/mbushou/furnace_backend)
+- [Furnace Sandbox](https://github.com/mbushou/furnace_sandbox)
+- [Furnace Proxy](https://github.com/mbushou/furnace_proxy)
+- [Furnace Backend](https://github.com/mbushou/furnace_backend)
 - ~~[Furnace Cloud
-    Service](https://github.ncsu.edu/mbushou/furnace_cloud_service)~~
+    Service](https://github.com/mbushou/furnace_cloud_service)~~
     (under development!)
 - ~~[Furnace Hypervisor
-  Agent](https://github.ncsu.edu/mbushou/furnace_hypervisor_agent)~~ (under
+  Agent](https://github.com/mbushou/furnace_hypervisor_agent)~~ (under
   development!)
 - ~~[Furnace Proxy
-    Agent](https://github.ncsu.edu/mbushou/furnace_proxy_agent)~~ (under
+    Agent](https://github.com/mbushou/furnace_proxy_agent)~~ (under
     development!)
 
 The individual repositories listed above are intended to be installed on specific cloud
@@ -38,7 +38,7 @@ infrastructure components (e.g., the Furnace sandbox is installed on each cloud
 compute node).  The diagram below shows Furnace's overall software
 architecture and which repository belongs on which cloud component.
 
-<img align="center" width="100%" src="https://github.ncsu.edu/mbushou/furnace/blob/master/misc/cloud_management.png">
+<img align="center" width="100%" src="https://github.com/mbushou/furnace/blob/master/misc/cloud_management.png">
 
 Warning!
 -------

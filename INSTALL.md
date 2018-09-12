@@ -11,7 +11,7 @@ or LibVMI's documentation on verifying hardware).
 
 These instructions are spartan; they are best used by copy/pasting small blocks of commands at a time, ensuring each completes successfully before continuing.
 
-For more information on the Furnace project, visit its [main repository](https://github.ncsu.edu/mbushou/furnace).
+For more information on the Furnace project, visit its [main repository](https://github.com/mbushou/furnace).
 
 ### Install Fedora 28 server and Xen
 
